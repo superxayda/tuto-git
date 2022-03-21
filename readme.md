@@ -7,6 +7,8 @@ git config --list
 
 
 
+
+
 git status 
 
 git add (chemin du fichier) 
